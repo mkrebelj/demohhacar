@@ -1,4 +1,15 @@
 {
+  "updates": [
+    {
       "latestVersion":"1.1",
       "path":"https://drive.google.com/open?id=1gBIqc3vTt0Ok_trAi-ssPtntHyxDhoKn"
+    },
+        {
+      "latestVersion":"1.1",
+      "path":"https://drive.google.com/open?id=1gBIqc3vTt0Ok_trAi-ssPtntHyxDhoKn"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
